@@ -1,7 +1,7 @@
 # Data Analytics Dashboard Replications  
 
 ## Overview  
-This repository contains two dashboard projects developed as part of my data analytics training with BrightLearn. These projects focus on replicating interactive dashboards.
+This repository contains  replicated dashboards, on both PowerBI and Data Studio, as part of my data analytics training with BrightLearn. 
 
 The dashboards analyse sales performance, customer behaviour, and product trends to support better business decision-making.
 
